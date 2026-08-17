@@ -1,0 +1,7 @@
+C:\libs\Formatter/lib/Formatter.lib
+C:\libs\Formatter/include/Formatter/Formatter.h
+C:\libs\Formatter/include/Formatter/Helper.h
+C:\libs\Formatter/lib/cmake/Formatter/FormatterTargets.cmake
+C:\libs\Formatter/lib/cmake/Formatter/FormatterTargets-debug.cmake
+C:\libs\Formatter/lib/cmake/Formatter/FormatterConfig.cmake
+C:\libs\Formatter/lib/cmake/Formatter/FormatterConfigVersion.cmake
